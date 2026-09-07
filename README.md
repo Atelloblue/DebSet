@@ -1,6 +1,6 @@
 <!--
 ===============================
-VNC Setup 1.1 - VNC & Desktop Installer with Optional DE Flavors
+DebSet 1.1 - VNC & Desktop Installer with Optional DE Flavors
 Supports: GNOME, XFCE, LXDE, MATE, KDE, Cinnamon
 ===============================
 MIT License
@@ -26,11 +26,11 @@ SOFTWARE.
 ===============================
 -->
 
-# :desktop_computer: VNC Setup
+# :desktop_computer: DebSet
 
-[![GitHub stars](https://img.shields.io/github/stars/Atelloblue/VNC-Setup?color=brightgreen)](https://github.com/Atelloblue/VNC-Setup/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Atelloblue/VNC-Setup?color=brightgreen)](https://github.com/Atelloblue/VNC-Setup/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Atelloblue/VNC-Setup?color=brightgreen)](https://github.com/Atelloblue/VNC-Setup/network)
+[![GitHub stars](https://img.shields.io/github/stars/Atelloblue/DebSet?color=brightgreen)](https://github.com/Atelloblue/DebSet/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Atelloblue/DebSet?color=brightgreen)](https://github.com/Atelloblue/DebSet/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Atelloblue/DebSet?color=brightgreen)](https://github.com/Atelloblue/DebSet/network)
 [![made-with-bash](https://img.shields.io/badge/-Made%20with%20Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 A simple script to install **VNC** with your choice of desktop environment (GNOME, XFCE, LXDE, MATE, KDE, Cinnamon) on **Debian based** computers.
@@ -72,4 +72,4 @@ A simple script to install **VNC** with your choice of desktop environment (GNOM
 Run the following one-liner as **root** or using `sudo`:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Atelloblue/VNC-Setup/refs/heads/main/vnc-setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Atelloblue/DebSet/refs/heads/main/debset.sh)
